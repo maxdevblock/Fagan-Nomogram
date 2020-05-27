@@ -1,4 +1,4 @@
-# Fagan-Nomogram
+# Fagan Nomogram
 How to plot a Fagan's nomogram with `matplotlib`
 
 ***
